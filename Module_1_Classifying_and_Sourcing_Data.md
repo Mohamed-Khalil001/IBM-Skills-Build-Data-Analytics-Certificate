@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e4f42777-51c3-4e20-8db6-3465597818bb)
 # Module 1: Classifying and Sourcing Data
 
 ## Module Overview
@@ -39,8 +40,8 @@ In this module, we explore the fundamentals of data and its classifications, ess
 - **Automotive**: GPS data for self-driving cars.
 - **Finance**: Trade volumes and ROI for investment decisions.
 
-**Visual Aid**: A diagram showing data sources (e.g., stock prices, investor comments, market reports) converging into a “Data” circle.
 
+[![A-flat-style-diagram-showing-multiple-data-sources-converging-into-a-central-blue-circle-labeled-Da.png](https://i.postimg.cc/44h38SLD/A-flat-style-diagram-showing-multiple-data-sources-converging-into-a-central-blue-circle-labeled-Da.png)](https://postimg.cc/ThfG1CX0)
 ---
 
 ### 2. Data Analysis vs. Data Analytics
@@ -60,8 +61,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 - **Data Analysis**: Analyzing last year’s trade data to answer, “What was the fund’s average monthly ROI?” (e.g., 5.2%). This involves calculating metrics from a specific dataset.
 - **Data Analytics**: Using historical ROI and market trends to predict next year’s fund performance, employing statistical models or machine learning to guide investment strategies.
 
-**Visual Aid**: A timeline with “Data Analysis (Present)” showing ROI calculations and “Data Analytics (Future)” showing predictive models.
-
+[![A-horizontal-timeline-split-into-two-halves-Left-half-labeled-Data-Analysis-Present-with-bar-ch.png](https://i.postimg.cc/dtPVgjgL/A-horizontal-timeline-split-into-two-halves-Left-half-labeled-Data-Analysis-Present-with-bar-ch.png)](https://postimg.cc/8s4G6MpS)
 ---
 
 ### 3. Primary Data
@@ -81,8 +81,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 
 - Time-consuming and costly.
 
-**Visual Aid**: A survey form with a question like “Rate the fund’s performance (1-5)” and a bar chart of responses.
-
+[![A-digital-survey-form-screenshot-with-a-Likert-scale-question-Rate-the-fund-s-performance-1-5.png](https://i.postimg.cc/rmDp2n8t/A-digital-survey-form-screenshot-with-a-Likert-scale-question-Rate-the-fund-s-performance-1-5.png)](https://postimg.cc/DJKhqc42)
 ---
 
 ### 4. Secondary Data
@@ -103,8 +102,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 - May lack specificity or accuracy.
 - Limited control over quality.
 
-**Visual Aid**: A table comparing Primary (e.g., “Surveys: Accurate, Costly”) vs. Secondary (e.g., “Bloomberg Reports: Fast, Less Specific”).
-
+[![A-comparative-table-with-two-columns-Left-Primary-Data-with-icons-of-survey-and-high-accuracy-l.png](https://i.postimg.cc/FRwHryRC/A-comparative-table-with-two-columns-Left-Primary-Data-with-icons-of-survey-and-high-accuracy-l.png)](https://postimg.cc/7GMkXTSS)
 ---
 
 ### 5. Quantitative Data
@@ -121,8 +119,8 @@ In this module, we explore the fundamentals of data and its classifications, ess
 - **Continuous**: Any value in a range (e.g., stock prices).
   - **Interval**: No absolute zero (e.g., volatility index).
   - **Ratio**: Absolute zero (e.g., trade volume in dollars).
-
-**Visual Aid**: A line graph of ROI (Continuous) and a bar chart of trade counts (Discrete).
+ 
+  [![Two-charts-side-by-side-A-line-graph-showing-monthly-ROI-y-axis-x-axis-time-A-bar-chart-dis.png](https://i.postimg.cc/BbDQXjPS/Two-charts-side-by-side-A-line-graph-showing-monthly-ROI-y-axis-x-axis-time-A-bar-chart-dis.png)](https://postimg.cc/hQDqYP06)
 
 ---
 
@@ -139,7 +137,8 @@ In this module, we explore the fundamentals of data and its classifications, ess
 - **Nominal**: No order (e.g., asset types: Stocks, Bonds).
 - **Ordinal**: Ordered (e.g., investor ratings: High, Medium, Low).
 
-**Visual Aid**: A word cloud with terms like “Aggressive,” “Reliable” (Nominal) and a ranked scale (High > Medium > Low) for Ordinal data.
+
+[![Split-image-Left-a-word-cloud-with-terms-like-Aggressive-Reliable-Risky-Right-a-vertical.png](https://i.postimg.cc/pdGd7btH/Split-image-Left-a-word-cloud-with-terms-like-Aggressive-Reliable-Risky-Right-a-vertical.png)](https://postimg.cc/nsmZjWzR)
 
 ---
 
@@ -151,7 +150,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 
 **Application in Quantitative Fund Analysis**: A SQL database of trade volumes and stock prices enables quick queries for ROI calculations.
 
-**Visual Aid**: A table with columns (Date, Stock Price, Trade Volume).
+[![A-clean-professional-spreadsheet-style-table-with-columns-clearly-labeled-Date-Stock-Price-Tra.png](https://i.postimg.cc/XvBnqZCr/A-clean-professional-spreadsheet-style-table-with-columns-clearly-labeled-Date-Stock-Price-Tra.png)](https://postimg.cc/DWh9Yw5h)
 
 ---
 
@@ -163,7 +162,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 
 **Application in Quantitative Fund Analysis**: Investor comments on X (e.g., “The fund is risky”) are unstructured but can be quantified into sentiment scores to complement ROI analysis.
 
-**Visual Aid**: A word cloud of comments vs. a structured table.
+[![Two-contrasting-panels-side-by-side-Left-panel-messy-blocks-of-text-resembling-tweets-or-investor.png](https://i.postimg.cc/XYzVnKpM/Two-contrasting-panels-side-by-side-Left-panel-messy-blocks-of-text-resembling-tweets-or-investor.png)](https://postimg.cc/sM5FchYK)
 
 ---
 
@@ -173,7 +172,7 @@ In this module, we explore the fundamentals of data and its classifications, ess
 
 **Application in Quantitative Fund Analysis**: Trade volume is primary, quantitative, and structured. Investor feedback is primary, qualitative, and unstructured. Both are used in quantitative analysis to optimize strategies.
 
-**Visual Aid**: A Venn diagram showing overlaps (e.g., “Trade Volume: Primary + Quantitative + Structured”).
+[![A-simple-clear-Venn-diagram-with-exactly-3-overlapping-circles-on-white-background-Red-circle-labe.png](https://i.postimg.cc/ncTFPfxh/A-simple-clear-Venn-diagram-with-exactly-3-overlapping-circles-on-white-background-Red-circle-labe.png)](https://postimg.cc/56YWXGjh)
 
 ---
 

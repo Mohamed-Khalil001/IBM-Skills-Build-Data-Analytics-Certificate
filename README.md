@@ -19,7 +19,7 @@ This repo documents my learning journey through IBM’s professional data analyt
 ---
 
 ## 📘about-this-course 
-- [🗂️ Table](#table_of_contents)
+[↩️ Table](#table_of_contents)
 
 This course is different from traditional learning. It's a holistic experience combining:
 

@@ -101,7 +101,7 @@ The repository is structured into folders by microcredential. Each module and ca
 
 ---
 
-## 📁 Microcredentials and Modules
+## microcredentials-and-modules
 
 Each folder includes:
 

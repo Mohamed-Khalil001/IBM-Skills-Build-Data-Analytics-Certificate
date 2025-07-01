@@ -18,7 +18,7 @@ This repo documents my learning journey through IBM’s professional data analyt
 
 ---
 
-## 📘 About This Course
+## 📘about-this-course
 
 This course is different from traditional learning. It's a holistic experience combining:
 
@@ -38,7 +38,7 @@ This course is different from traditional learning. It's a holistic experience c
 
 ---
 
-## 📚 Repository Structure
+## 📚repository-structure
 
 The repository is structured into folders by microcredential. Each module and capstone project is linked below for quick access:
 
@@ -123,7 +123,7 @@ Each folder includes:
 
 ---
 
-## 🧪 Capstone Projects
+## 🧪capstone-projects
 
 Capstone projects simulate real-world business challenges across multiple industries:
 
@@ -142,7 +142,7 @@ Each project includes:
 
 ---
 
-## 🛠️ Tools Used
+## 🛠tools-used
 
 These tools and platforms were used throughout the learning journey:
 
@@ -154,7 +154,7 @@ These tools and platforms were used throughout the learning journey:
 
 ---
 
-## 📌 Goals of This Repository
+## 📌goals-of-this-repository
 
 - 📂 Organize and document the entire learning journey  
 - 🧠 Reinforce concepts by writing and sharing  
@@ -163,7 +163,7 @@ These tools and platforms were used throughout the learning journey:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝connect-with-me
 
 Feel free to reach out or collaborate:
 
@@ -172,6 +172,6 @@ Feel free to reach out or collaborate:
 
 ---
 
-## 📄 License
+## 📄license
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.

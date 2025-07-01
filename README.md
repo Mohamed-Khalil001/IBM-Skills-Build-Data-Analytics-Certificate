@@ -19,7 +19,7 @@ This repo documents my learning journey through IBM’s professional data analyt
 ---
 
 ## 📘about-this-course 
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 This course is different from traditional learning. It's a holistic experience combining:
 
@@ -40,7 +40,7 @@ This course is different from traditional learning. It's a holistic experience c
 ---
 
 ## 📚repository-structure
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 The repository is structured into folders by microcredential. Each module and capstone project is linked below for quick access:
 
@@ -104,7 +104,7 @@ The repository is structured into folders by microcredential. Each module and ca
 ---
 
 ## 📁microcredentials-and-modules
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 Each folder includes:
@@ -128,7 +128,7 @@ Each folder includes:
 ---
 
 ## 🧪capstone-projects
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 Capstone projects simulate real-world business challenges across multiple industries:
@@ -149,7 +149,7 @@ Each project includes:
 ---
 
 ## 🛠tools-used
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 These tools and platforms were used throughout the learning journey:
@@ -163,7 +163,7 @@ These tools and platforms were used throughout the learning journey:
 ---
 
 ## 📌goals-of-this-repository
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 - 📂 Organize and document the entire learning journey  
@@ -174,7 +174,7 @@ These tools and platforms were used throughout the learning journey:
 ---
 
 ## 🤝connect-with-me
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 Feel free to reach out or collaborate:
@@ -185,7 +185,7 @@ Feel free to reach out or collaborate:
 ---
 
 ## 📄license
-[↩️ Table of content ](#table_of_contents)
+[╰┈➤. Table of content ](#table_of_contents)
 
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.

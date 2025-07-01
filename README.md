@@ -5,8 +5,7 @@ This repo documents my learning journey through IBM’s professional data analyt
 
 ---
 
-## 🗂️ Table of Contents
-# main
+## 🗂table_of_contents
 
 - [📘 About This Course](#about-this-course)
 - [📚 Repository Structure](#repository-structure)
@@ -20,7 +19,7 @@ This repo documents my learning journey through IBM’s professional data analyt
 ---
 
 ## 📘about-this-course 
-[🔝](main)
+- [🗂️ Table](#table_of_contents)
 
 This course is different from traditional learning. It's a holistic experience combining:
 
